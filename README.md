@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tool Count](https://img.shields.io/badge/Tool%20count-64-10b981?style=classic)
+![Tool Count](https://img.shields.io/badge/Tool%20count-65-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/maxbogo/awesome-ai-tools-for-ui?label=Last%20update&style=classic)](https://github.com/maxbogo/awesome-ai-tools-for-ui)
 
 </div>
@@ -94,6 +94,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Design and Refine](https://github.com/0xdesign/design-plugin?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for generating, comparing, and refining multiple UI variations in your codebase.
 - [Interface Design](https://github.com/Dammyjay93/interface-design?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for remembering interface decisions across sessions and keeping UI systems consistent.
 - [AI Canvas](https://aicanvas.me/mcp?utm_source=awesome-ai-tools-for-ui) - MCP server that lets AI editors search an open-source (MIT) registry of animated React components, blocks and design systems and return their shadcn CLI install commands.
+- [UXKIN](https://uxkin.com/?utm_source=awesome-ai-tools-for-ui) - MCP server and free skills that give coding agents real iOS app screens, user journeys and website design systems to reference.
 
 ## Design Tools
 
